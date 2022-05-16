@@ -19,6 +19,8 @@ What Movie Was That - [App](https://bthalpin.github.io/What-Movie-Was-That/) - [
 
 Weather Forecast - [App](https://bthalpin.github.io/Weather-Forecast/) - [Code](https://github.com/bthalpin/Weather-Forecast)
 
+[![Brian Halpin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bthalpin&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Me
 If you have any questions contact me directly at <brian.t.halpin@gmail.com> or message me on [LinkedIn](https://www.linkedin.com/in/brian-halpin/). You can find more of my work at [Brian Halpin](https://github.com/bthalpin).  
 <!--
