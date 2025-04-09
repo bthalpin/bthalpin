@@ -13,7 +13,7 @@ Portfolio - [App](https://bthalpin.com) - [Code](https://github.com/bthalpin/Typ
 
 Raffles of Love - [App](https://charity-raffle.herokuapp.com/) - [Code](https://github.com/bthalpin/Raffles-of-Love)
 
-SnapShot - [App](https://snapshot-bh.herokuapp.com/) - [Code](https://github.com/bthalpin/SnapShot)
+SnapShot - [App](https://bh-snapshot.herokuapp.com/) - [Code](https://github.com/bthalpin/SnapShot)
 
 What Movie Was That - [App](https://bthalpin.github.io/What-Movie-Was-That/) - [Code](https://github.com/bthalpin/What-Movie-Was-That)
 
