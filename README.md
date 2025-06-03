@@ -9,7 +9,7 @@ My love of problem solving, my drive to always improve, and my strong collaborat
 
 ## Links
 
-Portfolio - [App](https://bthalpin.com) - [Code](https://github.com/bthalpin/TypeScript-Portfolio)
+Portfolio - [App](https://bthalpin.com) - [Code](https://github.com/bthalpin/next-portfolio)
 
 Raffles of Love - [App](https://charity-raffle.herokuapp.com/) - [Code](https://github.com/bthalpin/Raffles-of-Love)
 
