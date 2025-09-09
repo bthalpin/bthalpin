@@ -1,7 +1,7 @@
  
 # Brian Halpin
 
-Hi, I'm a web developer, with years of professional experience, specializing in building and maintaining full-stack applications using Next.js, TypeScript, and MySQL with Prisma and Sequelize. I've worked both independently and as part of a collaborative team, contributing to the development of multiple full-featured websites. My work includes maintaining legacy codebases, launching new projects from the ground up, and developing a custom content management system to support dynamic site content. I also led the development of a full-scale content-driven website, as well as an admin dashboard that enables seamless content management.
+Hi, I'm a web developer, with years of professional experience, specializing in building and maintaining full-stack applications using Next.js, TypeScript, and MySQL with Prisma and Sequelize. I've worked both independently and as part of a collaborative team, contributing to the development of multiple full-featured web applications. My work includes maintaining legacy codebases, launching new projects from the ground up, and developing a custom content management system to support dynamic site content. I also led the development of a full-scale content-driven website, as well as an admin dashboard that enables seamless content management.
 
 Since the moment I was exposed to programming, it was all I ever wanted to do. I have always had a passion for problem solving, but thought my love of logic puzzles would be something I would only ever do as a hobby. Software development has given me an avenue to not only do what I love, but also to engage me and challenge me to always improve my skills.
 
