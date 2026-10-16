@@ -1,13 +1,13 @@
  
 # Brian Halpin
 
-Hi, I'm a web developer, with years of professional experience, specializing in building and maintaining full-stack applications using Next.js, TypeScript, and MySQL with Prisma and Sequelize. I've worked both independently and as part of a collaborative team, contributing to the development of multiple full-featured web applications. My work includes maintaining legacy codebases, launching new projects from the ground up, and developing a custom content management system to support dynamic site content. I also led the development of a full-scale content-driven website, as well as an admin dashboard that enables seamless content management.
+I'm a full-stack developer with 4+ years of professional experience building, maintaining, and deploying production web applications. My primary stack includes Next.js, React, TypeScript, Node.js, and MySQL, along with Prisma, Sequelize, and PostgreSQL.
 
-Since the moment I was exposed to programming, it was all I ever wanted to do. I have always had a passion for problem solving, but thought my love of logic puzzles would be something I would only ever do as a hobby. Software development has given me an avenue to not only do what I love, but also to engage me and challenge me to always improve my skills.
+My experience spans the full application lifecycle, from developing features and backend services to managing databases, integrating third-party APIs, and troubleshooting production environments. I've helped launch applications from the ground up, maintained legacy codebases, developed custom content management systems, and built content-driven websites and administrative dashboards. In my current role as a Lead Developer, I oversee deployments and maintenance across multiple production applications, review code, support other developers, and help ensure the reliability of live systems.
 
-I earned a certificate in Full Stack Web Development from Rutgers University back in 2022. Before starting the program I took it upon myself to learn as much as I could, even developing a real time chat application using React, Node, Express, Knex, Postgres, and socket.io. In my time working through the program, I was able to hone my skills as a React developer, learn the importance of folder structure, and learn new technologies like GraphQL. One of my most important experiences was collaborating with other developers throughout the program, and in some instances, using my many years of supervisory experience to help lead the team to complete the project effectively and efficiently.
+I'm passionate about problem-solving and enjoy tackling complex technical challenges, learning new technologies, and continuously improving my approach to software development. I value clean, maintainable code and collaborative development, and I enjoy working with others to build practical, reliable solutions.
 
-My love of problem solving, my drive to always improve, and my strong collaborative skills make me an advantageous candidate for any team.
+I earned my Certificate in Full Stack Web Development from Rutgers University in 2022. Before and during the program, I developed personal projects, including a real-time chat application built with React, Node.js, Express, Knex, PostgreSQL, and Socket.IO. The program strengthened my foundation in modern web development and gave me valuable experience collaborating with other developers to deliver complete applications.
 
 ## Links
 
